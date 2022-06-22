@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm AH Ahsan Habib</h1>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&lines=Hi+%F0%9F%99%82+I'm+AH+Ahsan+habib+)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ah-ahsan-habib&label=Profile%20views&color=0e75b6&style=flat" alt="ah-ahsan-habib" /> </p>
